@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JdB61
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning how to dive
+- 💞️ I’m looking to collaborate on a few of our projects
+- 📫 How to reach me - justwrite me
